@@ -1,1 +1,1 @@
-# Alloy_SSI_Data_Sharing_Model
+# SSI Data Sharing Model Enconding in Alloy
